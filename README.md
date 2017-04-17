@@ -3,6 +3,7 @@
 ## Set up
 `git clone git@github.com:keisukefunatsu/rails-vue-data-binding-sample.git`
 `bundle install`
+'rails db:migrate'
 `yarn install`
 
 ## Run
